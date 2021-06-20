@@ -1,0 +1,20 @@
+{
+    "laptops": [
+        {
+            "name": "Macbook Pro 13",
+            "price": {
+                "amount": 1299,
+                "currency": "USD"
+            },
+            "display": "Retina display",
+            "onlyHasUSBTypeC": true,
+            "hasTouchBar": true,
+            "builtInApps": [
+                "Siri",
+                "Safari",
+                "Messages",
+                "Facetime"
+            ]
+        }
+    ]
+}
